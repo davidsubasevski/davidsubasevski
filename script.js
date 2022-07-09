@@ -9,5 +9,5 @@ window.addEventListener("scroll", () => {
 
 const handleData = ()=>{ 
 document.getElementById("form").reset();
-alert("Submited")
+alert("Submited ✔️")
 }
